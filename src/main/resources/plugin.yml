@@ -1,0 +1,7 @@
+name: SimpleChatMentions
+version: '${project.version}'
+main: com.isaackogan.simplechatmentions.SimpleChatMentions
+api-version: 1.17
+author: "Isaac Kogan"
+description: "Command for mentioning players"
+website: "https://www.isaackogan.com"
