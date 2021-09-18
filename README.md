@@ -1,2 +1,2 @@
 # SimpleChatMentions
-Simple 1.17 message for chat mentioning
+Simple 1.17 utility for chat mentioning
